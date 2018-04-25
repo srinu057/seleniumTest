@@ -10,7 +10,7 @@ public class Test2 {
 	@Test
 	public void login()
 	{
-		System.out.println("My Test2");
+		System.out.println("My Test3");
 	   
 	   System.setProperty("webdriver.chrome.driver", "C:\\backup\\Selenium\\JarFiles\\chromedriver.exe");
 	   driver = new ChromeDriver();
